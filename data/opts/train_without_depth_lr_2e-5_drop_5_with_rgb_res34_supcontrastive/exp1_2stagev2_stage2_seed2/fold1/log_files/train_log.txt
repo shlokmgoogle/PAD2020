@@ -1,0 +1,200 @@
+Best Epoch 0 results:
+Train: Loss: 0.07312	
+Test:  Loss: 1.97669	
+Test:  TPR@FPR=10-2: 0.0404	TPR@FPR=10-3: 0.0033	TPR@FPR=10-4: 0.0003	Accuracy: 0.4835	
+Epoch 1 results:
+Train: Loss: 0.00656	
+Test:  Loss: 2.40129	
+Test:  TPR@FPR=10-2: 0.0100	TPR@FPR=10-3: 0.0007	TPR@FPR=10-4: 0.0000	Accuracy: 0.4879	
+Epoch 2 results:
+Train: Loss: 0.00371	
+Test:  Loss: 2.47072	
+Test:  TPR@FPR=10-2: 0.0060	TPR@FPR=10-3: 0.0003	TPR@FPR=10-4: 0.0000	Accuracy: 0.5181	
+Epoch 3 results:
+Train: Loss: 0.00265	
+Test:  Loss: 2.75830	
+Test:  TPR@FPR=10-2: 0.0084	TPR@FPR=10-3: 0.0010	TPR@FPR=10-4: 0.0000	Accuracy: 0.4981	
+Epoch 4 results:
+Train: Loss: 0.00164	
+Test:  Loss: 2.85555	
+Test:  TPR@FPR=10-2: 0.0047	TPR@FPR=10-3: 0.0003	TPR@FPR=10-4: 0.0000	Accuracy: 0.5128	
+Epoch 5 results:
+Train: Loss: 0.00141	
+Test:  Loss: 3.01033	
+Test:  TPR@FPR=10-2: 0.0047	TPR@FPR=10-3: 0.0003	TPR@FPR=10-4: 0.0000	Accuracy: 0.5103	
+Epoch 6 results:
+Train: Loss: 0.00227	
+Test:  Loss: 2.79516	
+Test:  TPR@FPR=10-2: 0.1450	TPR@FPR=10-3: 0.0261	TPR@FPR=10-4: 0.0013	Accuracy: 0.5282	
+Epoch 7 results:
+Train: Loss: 0.00132	
+Test:  Loss: 2.69643	
+Test:  TPR@FPR=10-2: 0.1072	TPR@FPR=10-3: 0.0070	TPR@FPR=10-4: 0.0003	Accuracy: 0.5428	
+Epoch 8 results:
+Train: Loss: 0.00103	
+Test:  Loss: 2.74021	
+Test:  TPR@FPR=10-2: 0.0568	TPR@FPR=10-3: 0.0053	TPR@FPR=10-4: 0.0003	Accuracy: 0.5413	
+Epoch 9 results:
+Train: Loss: 0.00145	
+Test:  Loss: 2.22915	
+Test:  TPR@FPR=10-2: 0.2555	TPR@FPR=10-3: 0.0668	TPR@FPR=10-4: 0.0013	Accuracy: 0.5834	
+Epoch 10 results:
+Train: Loss: 0.00142	
+Test:  Loss: 2.75318	
+Test:  TPR@FPR=10-2: 0.1981	TPR@FPR=10-3: 0.0334	TPR@FPR=10-4: 0.0097	Accuracy: 0.5403	
+Epoch 11 results:
+Train: Loss: 0.00065	
+Test:  Loss: 2.85716	
+Test:  TPR@FPR=10-2: 0.0782	TPR@FPR=10-3: 0.0050	TPR@FPR=10-4: 0.0003	Accuracy: 0.5440	
+Epoch 12 results:
+Train: Loss: 0.00087	
+Test:  Loss: 2.96136	
+Test:  TPR@FPR=10-2: 0.0898	TPR@FPR=10-3: 0.0087	TPR@FPR=10-4: 0.0003	Accuracy: 0.5326	
+Epoch 13 results:
+Train: Loss: 0.00102	
+Test:  Loss: 2.72198	
+Test:  TPR@FPR=10-2: 0.0661	TPR@FPR=10-3: 0.0084	TPR@FPR=10-4: 0.0003	Accuracy: 0.5637	
+Epoch 14 results:
+Train: Loss: 0.00073	
+Test:  Loss: 3.08792	
+Test:  TPR@FPR=10-2: 0.0538	TPR@FPR=10-3: 0.0023	TPR@FPR=10-4: 0.0003	Accuracy: 0.5342	
+Epoch 15 results:
+Train: Loss: 0.00075	
+Test:  Loss: 3.26321	
+Test:  TPR@FPR=10-2: 0.0745	TPR@FPR=10-3: 0.0063	TPR@FPR=10-4: 0.0003	Accuracy: 0.5154	
+Epoch 16 results:
+Train: Loss: 0.00104	
+Test:  Loss: 3.20530	
+Test:  TPR@FPR=10-2: 0.0451	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0003	Accuracy: 0.5156	
+Epoch 17 results:
+Train: Loss: 0.00115	
+Test:  Loss: 2.16317	
+Test:  TPR@FPR=10-2: 0.2198	TPR@FPR=10-3: 0.0281	TPR@FPR=10-4: 0.0023	Accuracy: 0.6097	
+Epoch 18 results:
+Train: Loss: 0.00068	
+Test:  Loss: 3.21110	
+Test:  TPR@FPR=10-2: 0.0822	TPR@FPR=10-3: 0.0073	TPR@FPR=10-4: 0.0003	Accuracy: 0.5103	
+Epoch 19 results:
+Train: Loss: 0.00069	
+Test:  Loss: 3.26650	
+Test:  TPR@FPR=10-2: 0.0494	TPR@FPR=10-3: 0.0040	TPR@FPR=10-4: 0.0000	Accuracy: 0.4977	
+Epoch 20 results:
+Train: Loss: 0.00073	
+Test:  Loss: 3.29198	
+Test:  TPR@FPR=10-2: 0.0428	TPR@FPR=10-3: 0.0027	TPR@FPR=10-4: 0.0000	Accuracy: 0.5014	
+Epoch 21 results:
+Train: Loss: 0.00085	
+Test:  Loss: 3.10634	
+Test:  TPR@FPR=10-2: 0.0685	TPR@FPR=10-3: 0.0053	TPR@FPR=10-4: 0.0003	Accuracy: 0.5302	
+Epoch 22 results:
+Train: Loss: 0.00116	
+Test:  Loss: 2.93994	
+Test:  TPR@FPR=10-2: 0.1774	TPR@FPR=10-3: 0.0234	TPR@FPR=10-4: 0.0013	Accuracy: 0.5289	
+Epoch 23 results:
+Train: Loss: 0.00064	
+Test:  Loss: 3.12483	
+Test:  TPR@FPR=10-2: 0.0705	TPR@FPR=10-3: 0.0033	TPR@FPR=10-4: 0.0003	Accuracy: 0.5249	
+Epoch 24 results:
+Train: Loss: 0.00032	
+Test:  Loss: 3.05574	
+Test:  TPR@FPR=10-2: 0.0554	TPR@FPR=10-3: 0.0033	TPR@FPR=10-4: 0.0000	Accuracy: 0.5410	
+Epoch 25 results:
+Train: Loss: 0.00036	
+Test:  Loss: 3.33804	
+Test:  TPR@FPR=10-2: 0.0381	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5287	
+Epoch 26 results:
+Train: Loss: 0.00026	
+Test:  Loss: 3.43228	
+Test:  TPR@FPR=10-2: 0.0251	TPR@FPR=10-3: 0.0010	TPR@FPR=10-4: 0.0000	Accuracy: 0.5169	
+Epoch 27 results:
+Train: Loss: 0.00068	
+Test:  Loss: 2.85257	
+Test:  TPR@FPR=10-2: 0.0591	TPR@FPR=10-3: 0.0033	TPR@FPR=10-4: 0.0003	Accuracy: 0.5686	
+Epoch 28 results:
+Train: Loss: 0.00050	
+Test:  Loss: 3.26701	
+Test:  TPR@FPR=10-2: 0.0564	TPR@FPR=10-3: 0.0027	TPR@FPR=10-4: 0.0000	Accuracy: 0.5292	
+Epoch 29 results:
+Train: Loss: 0.00021	
+Test:  Loss: 3.33610	
+Test:  TPR@FPR=10-2: 0.0247	TPR@FPR=10-3: 0.0010	TPR@FPR=10-4: 0.0000	Accuracy: 0.5313	
+Epoch 30 results:
+Train: Loss: 0.00045	
+Test:  Loss: 2.77994	
+Test:  TPR@FPR=10-2: 0.0835	TPR@FPR=10-3: 0.0037	TPR@FPR=10-4: 0.0000	Accuracy: 0.5800	
+Epoch 31 results:
+Train: Loss: 0.00039	
+Test:  Loss: 2.84442	
+Test:  TPR@FPR=10-2: 0.0748	TPR@FPR=10-3: 0.0033	TPR@FPR=10-4: 0.0000	Accuracy: 0.5731	
+Epoch 32 results:
+Train: Loss: 0.00022	
+Test:  Loss: 3.21102	
+Test:  TPR@FPR=10-2: 0.0601	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5440	
+Epoch 33 results:
+Train: Loss: 0.00050	
+Test:  Loss: 3.01143	
+Test:  TPR@FPR=10-2: 0.0765	TPR@FPR=10-3: 0.0043	TPR@FPR=10-4: 0.0000	Accuracy: 0.5600	
+Epoch 34 results:
+Train: Loss: 0.00056	
+Test:  Loss: 3.22003	
+Test:  TPR@FPR=10-2: 0.0488	TPR@FPR=10-3: 0.0030	TPR@FPR=10-4: 0.0000	Accuracy: 0.5458	
+Epoch 35 results:
+Train: Loss: 0.00021	
+Test:  Loss: 3.52775	
+Test:  TPR@FPR=10-2: 0.0257	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0000	Accuracy: 0.5231	
+Epoch 36 results:
+Train: Loss: 0.00046	
+Test:  Loss: 3.42749	
+Test:  TPR@FPR=10-2: 0.0304	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0000	Accuracy: 0.5329	
+Epoch 37 results:
+Train: Loss: 0.00067	
+Test:  Loss: 3.09393	
+Test:  TPR@FPR=10-2: 0.0615	TPR@FPR=10-3: 0.0020	TPR@FPR=10-4: 0.0000	Accuracy: 0.5606	
+Epoch 38 results:
+Train: Loss: 0.00054	
+Test:  Loss: 3.40667	
+Test:  TPR@FPR=10-2: 0.0301	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0000	Accuracy: 0.5358	
+Epoch 39 results:
+Train: Loss: 0.00034	
+Test:  Loss: 3.23114	
+Test:  TPR@FPR=10-2: 0.0521	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0000	Accuracy: 0.5460	
+Epoch 40 results:
+Train: Loss: 0.00030	
+Test:  Loss: 3.46505	
+Test:  TPR@FPR=10-2: 0.0304	TPR@FPR=10-3: 0.0020	TPR@FPR=10-4: 0.0000	Accuracy: 0.5301	
+Epoch 41 results:
+Train: Loss: 0.00037	
+Test:  Loss: 3.42967	
+Test:  TPR@FPR=10-2: 0.0274	TPR@FPR=10-3: 0.0010	TPR@FPR=10-4: 0.0000	Accuracy: 0.5341	
+Epoch 42 results:
+Train: Loss: 0.00047	
+Test:  Loss: 3.30770	
+Test:  TPR@FPR=10-2: 0.0464	TPR@FPR=10-3: 0.0017	TPR@FPR=10-4: 0.0000	Accuracy: 0.5392	
+Epoch 43 results:
+Train: Loss: 0.00017	
+Test:  Loss: 3.21969	
+Test:  TPR@FPR=10-2: 0.0558	TPR@FPR=10-3: 0.0023	TPR@FPR=10-4: 0.0000	Accuracy: 0.5474	
+Epoch 44 results:
+Train: Loss: 0.00068	
+Test:  Loss: 3.27604	
+Test:  TPR@FPR=10-2: 0.0564	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5440	
+Epoch 45 results:
+Train: Loss: 0.00019	
+Test:  Loss: 3.35483	
+Test:  TPR@FPR=10-2: 0.0464	TPR@FPR=10-3: 0.0010	TPR@FPR=10-4: 0.0000	Accuracy: 0.5382	
+Epoch 46 results:
+Train: Loss: 0.00045	
+Test:  Loss: 2.99707	
+Test:  TPR@FPR=10-2: 0.0775	TPR@FPR=10-3: 0.0023	TPR@FPR=10-4: 0.0000	Accuracy: 0.5619	
+Epoch 47 results:
+Train: Loss: 0.00028	
+Test:  Loss: 3.16471	
+Test:  TPR@FPR=10-2: 0.0618	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5513	
+Epoch 48 results:
+Train: Loss: 0.00044	
+Test:  Loss: 3.33182	
+Test:  TPR@FPR=10-2: 0.0454	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5390	
+Epoch 49 results:
+Train: Loss: 0.00070	
+Test:  Loss: 3.41989	
+Test:  TPR@FPR=10-2: 0.0294	TPR@FPR=10-3: 0.0013	TPR@FPR=10-4: 0.0000	Accuracy: 0.5334	
